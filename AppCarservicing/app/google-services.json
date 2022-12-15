@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1031691716987",
+    "project_id": "appcarservicing",
+    "storage_bucket": "appcarservicing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031691716987:android:c7ea73370e122c6ef855de",
+        "android_client_info": {
+          "package_name": "com.example.appcarservicing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031691716987-hlnqlcibt4b27ita5nad9u9bia4b431b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.appcarservicing",
+            "certificate_hash": "13c684affd0ea2e8e40dbe554bca5f033241ba93"
+          }
+        },
+        {
+          "client_id": "1031691716987-47i9fr4n6cg5f0qblfp0q6pg9slpo9s9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzF-1Xi5lABD9OK6R8ioVqaBnrKJ29dHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031691716987-47i9fr4n6cg5f0qblfp0q6pg9slpo9s9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
